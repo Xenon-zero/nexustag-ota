@@ -2,7 +2,7 @@
   "version": "2.0",
   "versionCode": 2,
   "description": "Improved shake detection sensitivity and battery accuracy. Fixed auto-lost timing.",
-  "url": "https://YOUR_USERNAME.github.io/nexustag-ota/firmware.bin",
+  "url": "https://github.com/Xenon-zero/nexustag-ota/firmware.bin",
   "size": 921600,
   "md5": "PASTE_MD5_HASH_HERE",
   "mandatory": false,
