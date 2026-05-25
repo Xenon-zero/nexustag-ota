@@ -1,0 +1,18 @@
+{
+  "version": "2.0",
+  "versionCode": 2,
+  "description": "Improved shake detection sensitivity and battery accuracy. Fixed auto-lost timing.",
+  "url": "https://YOUR_USERNAME.github.io/nexustag-ota/firmware.bin",
+  "size": 921600,
+  "md5": "PASTE_MD5_HASH_HERE",
+  "mandatory": false,
+  "releaseDate": "2026-05-24",
+  "minAppVersion": "1.0",
+  "endOfLife": false,
+  "changelog": [
+    "Triple shake now more reliable",
+    "Battery percentage more accurate",
+    "Auto-lost triggers after 2 missed cycles instead of 3",
+    "Reduced BLE advertising interval in lost mode"
+  ]
+}
